@@ -8,5 +8,5 @@ For this project:
 - I built an RSS feed updater, to keep the rss.xml file updated without having to do it manually.
 - I learned how to incorporate social media into a personal project.
 
-This blog engine acted as my personal blog for some time, but I decided to move to <a href="www.dotordogh.wordpress.com">wordpress</a>.
+This blog engine acted as my personal blog for some time, but I decided to move to <a href="https://dotordogh.wordpress.com/">wordpress</a>.
 
