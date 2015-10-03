@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans);
+
+#dottitle {
+    font-family: 'Open Sans', sans-serif;
+    color: #6BB9F0;
+    width: 80%;
+}
+
+#thoughtstitle {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.0em;
+    color: #3C3C3C;
+    width: 80%;
+}
+
+h1 {
+    float: center;
+    margin-top: 0.05em;
+    margin-bottom: 0.05em;
+    width: 80%;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    color: #3C3C3C;
+    margin-top: 0.7em;
+    margin-bottom: 0em;
+    width: 80%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #3C3C3C;
+    margin: auto auto;
+    width: 90%;
+    font-size: small;
+}
+
+hr {
+    border: 0 none;
+    height: 2px;
+    background-color: #6BB9F0;
+    color: #6BB9F0;
+    margin-top: 1em;
+    float: center;
+}
+
+h2 a, h1 a {
+    color: #000000;
+    text-decoration: none;
+}
+
+h2 a:hover, h1 a:hover {
+    color: #000000;
+}
+
+a {
+    color: #6BB9F0;
+}
+
+a:hover {
+    color: #60A6D8;
+}
+
+#copyright {
+    text-align: center;
+    width: 80%;
+}
+
+input:not([type=submit]) {
+    width: 500px;
+    height: 30px;
+    border: 1px solid #6BB9F0;
+    font-size: 14px;
+}
+form {
+    width: 90%
+    margin: auto auto;
+}
+
+#body {
+    width: 500px;
+    height: 600px;
+    border: 1px solid #6BB9F0;
+    font-size: 14px;
+}
+
+#content {
+    width: 500px;
+    height: 200px;
+    border: 1px solid #6BB9F0;
+    font-size: 14px;
+}
+
+input[type=submit] {
+    width: 500px;
+    height: 30px;
+    border: 1px solid #6BB9F0;
+    background: #6BB9F0;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.social-buttons div {
+    display: inline-block;
+}
+
+#login-form {
+    margin: 20%;
+}

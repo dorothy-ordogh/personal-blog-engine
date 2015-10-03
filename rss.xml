@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="http://dorothyordogh.com/blog/rss.xml" rel="self" type="application/rss+xml"/>
+<title>Dot's Thoughts: Dorothy Ordogh's Blog</title><link>http://dorothyordogh.com/blog/index.php</link><description>Welcome to Dorothy's blog!</description><item><title>Welcome!</title><link>http://dorothyordogh.com/blog/post_view.php?id=1</link><description>Welcome message</description><guid>http://dorothyordogh.com/blog/post_view.php?id=1</guid></item><item><title>So Much To Do, Such Little Time</title><link>http://dorothyordogh.com/blog/post_view.php?id=4</link><description>What I had planned over my co-op term vs what I actually got done</description><guid>http://dorothyordogh.com/blog/post_view.php?id=4</guid></item><item><title>Verbal Diarrhea and Interviews</title><link>http://dorothyordogh.com/blog/post_view.php?id=3</link><description>Random idle thoughts.</description><guid>http://dorothyordogh.com/blog/post_view.php?id=3</guid></item><item><title>Architectural Design and Thought</title><link>http://dorothyordogh.com/blog/post_view.php?id=2</link><description>Random idle thoughts.</description><guid>http://dorothyordogh.com/blog/post_view.php?id=2</guid></item></channel>
+</rss>
